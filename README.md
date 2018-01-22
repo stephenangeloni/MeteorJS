@@ -9,6 +9,7 @@
 ### Education
 #### Code
 - [Writing a rest API](https://github.com/themeteorchef/writing-an-api)
+- [The meteor Chef](https://themeteorchef.com/tutorials)
 #### Lists
 - [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
 #### Videos
