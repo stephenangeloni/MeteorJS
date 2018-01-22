@@ -7,6 +7,8 @@
 - [I’ve been running Meteor at scale for a year now. Here’s what I’ve learned.](https://medium.freecodecamp.org/scaling-meteor-a-year-on-26ee37588e4b)
 - [Scaling Meteor to 20,000+ Users in 7 Days](https://differential.com/insights/scaling-meteor-to-20000-users-in-7-days/)
 ### Education
+#### Code
+- [Writing a rest API](https://github.com/themeteorchef/writing-an-api)
 #### Lists
 - [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
 #### Videos
