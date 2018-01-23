@@ -1,5 +1,8 @@
 # MeteorJS
 
+### Start learning Javascript
+- [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 ### Tools
 - [Meteor Up](https://github.com/zodern/meteor-up)
 ### Articles
