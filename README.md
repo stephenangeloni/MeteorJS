@@ -5,6 +5,7 @@
 ### Articles
 - [Scaling Meteor: The Challenges of Real-time Apps](http://www.discovermeteor.com/blog/scaling-meteor-the-challenges-of-realtime-apps/)
 - [I’ve been running Meteor at scale for a year now. Here’s what I’ve learned.](https://medium.freecodecamp.org/scaling-meteor-a-year-on-26ee37588e4b)
+- [Server-Side Rendering (SSR) in Meteor](http://julian.io/server-side-rendering-ssr-in-meteor/)
 - [Scaling Meteor to 20,000+ Users in 7 Days](https://differential.com/insights/scaling-meteor-to-20000-users-in-7-days/)
 ### Education
 #### Code
